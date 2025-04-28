@@ -414,12 +414,12 @@ with the exception that the status may be either *Open* or *Closed*:
 - Use _Closed_ *only after* the CAR is closed.
 
 In addition, CAR documents contain the following sections: 
-. Incident Description
-. Incident Statements: Statements from individuals with knowledge of the incident or potential causes.
-. Supporting Content: Pictures, diagrams, code, etc.
-. List of Causes
-. Resolution Actions: List of PPDs opened to address the subject of the CAR.
-. Progress Tracking: Track the progress of any related PPD.
+- Incident Description
+- Incident Statements: Statements from individuals with knowledge of the incident or potential causes.
+- Supporting Content: Pictures, diagrams, code, etc.
+- List of Causes
+- Resolution Actions: List of PPDs opened to address the subject of the CAR.
+- Progress Tracking: Track the progress of any related PPD.
 
 = TRM <trm>
 + Authors shall write and export TRM documents in the same formats as SDRs as defined by: @sdr.
