@@ -50,7 +50,7 @@ The FIRST Robotics Competition (FRC) challenges teams of young people and their 
 Grayson Robotics has established the following goals:
 
 + Provide a practical engineering education.
-+ Interdisciplinary approach to engineering that prevents miscommunication between engineering sub-teams.
++ Interdisciplinary approach to engineering that prevents miscommunication between engineering departments.
 + Demonstrate comprehensive quality control in all engineering and manufacturing activities.
 	+ Implement a Quality Management System as outlined by ISO 9001:2015.
 
@@ -68,31 +68,31 @@ Mentors support this by providing students with the instruction necessary to com
 
 Instruction should not rely on rote memorization.
 Instructors should focus on teaching students how to find and document correct information for future use.
-Sub-teams - as defined in @sub-teams - may use tests to assess a members ability to recall information needed when using a reference is impractical.
+Departments - as defined in @departments - may use tests to assess a members ability to recall information needed when using a reference is impractical.
 For example: operating a robot in a competition match or making a repair between matches, where there's no time to reference a document.
 
 = Organizing strategy
 This section explains how Grayson Robotics divides work between team members and uses documents to manage that work.
-Team members shall organize all work as the responsibility of one or more Sub-Teams listed in @sub-teams.
+Team members shall organize all work as the responsibility of one or more departments listed in @departments.
 Team members shall document all work via Action Items, as shown in @action_items or Projects as shown in @projects.  
 
-== Sub-Teams <sub-teams>
-Grayson Robotics has organized itself into sub-teams;
+== Departments <departments>
+Grayson Robotics has organized itself into departments;
 Subsets of team members who contribute to a specific category of team activities.
-Membership is not static and one member can participate with several sub-teams.
+Membership is not static and one member can participate with several departments.
 
-Sub-teams are not organized into a command hierarchy. Rather, sub-teams agree on
+Departments are not organized into a command hierarchy. Rather, departments agree on
 responsibilities to each other ahead of undertaking any interdisciplinary tasks or action items. 
 
-Grayson Robotics treats all conflicts between sub-teams as process failures.
-For example, if Mechanical Engineering and Electrical Engineering have a design conflict they - and the Systems Engineering Team - must resolve it by re-working the
+Grayson Robotics treats all conflicts between departments as process failures.
+For example, if Mechanical Engineering and Electrical Engineering have a design conflict they - and the Systems Engineering Dept. - must resolve it by re-working the
 engineering processes or design specification such that the designers have a better understanding of what they need to do. 
 
 Put another way, the team resolves design or scheduling conflicts by interrogating and re-working our processes.
 
-Sub-teams must not impede each other outside of the scope of their work.
+Departments must not impede each other outside of the scope of their work.
 
-Grayson Robotics consists of 12 permanent sub-teams:
+Grayson Robotics consists of 12 permanent departments:
 - Strategy
 - Intelligence
 - Operations
@@ -106,32 +106,32 @@ Grayson Robotics consists of 12 permanent sub-teams:
 - Electrical Engineering
 - Programming
 
-=== Strategy Team
-The Strategy team investigates the limits that prevent the team from reaching its goals and - in dialog with the other sub-teams - formulates strategies to overcome these limits and meet team goals.
+=== Strategy Dept
+The Strategy Dept. investigates the limits that prevent the team from reaching its goals and - in dialog with the other departments - formulates strategies to overcome these limits and meet team goals.
 
-The Strategy team shall:
+The Strategy Dept. shall:
 - Develop an overall team strategy for achieving the goals outlined in @goals.
-	- The Strategy team may not impose this strategy on other sub-team but must propose and seek approval from all members.
+	- The Strategy Dept. may not impose this strategy on other department but must propose and seek approval from all members.
 - Develop the competition strategy for the FRC season to include:
 	- which events to attend
 	- what types of scoring to prioritize
 	- what types of data to collect about other teams
 - Set the schedule for the FRC robot project.
-- Mediate scheduling conflicts for other sub-teams where no existing standard resolves the conflict.
+- Mediate scheduling conflicts for other departments where no existing standard resolves the conflict.
 
-=== Intelligence Team
-The intelligence team collects and organizes facts about actors outside of Grayson Robotics for the other sub-teams.
+=== Intelligence Department
+The intelligence Dept. collects and organizes facts about actors outside of Grayson Robotics for the other departments.
 
-The Intelligence Team shall:
+The Intelligence Dept. shall:
 - Gather quantitative data about the performance of other FRC teams' robots at competition.
 - Gather qualitative data about the operations, strengths, and weaknesses of other FRC teams' robots.
 - Gather information about the infrastructure, materiel resources, and engineering and manufacturing capabilities of other FRC teams.
 
-=== Operations Team
-Operations is the general service provider that ensures that all other sub-teams have what they need to fulfill their roles.
+=== Operations Department
+Operations is the general service provider that ensures that all other departments have what they need to fulfill their roles.
 Operations is responsible for maintaining all tools, equipment and, furniture and managing inventory of all consumables.
 
-The Operations team shall:
+The Operations Dept. shall:
 - carryout or oversee all facility, equipment, and tool maintenance
 - control inventory of all tools, parts, and other consumables
 - carryout or oversee the operation, maintenance, and transport of FRC robots
@@ -139,110 +139,110 @@ The Operations team shall:
 - design and manage the competition pit and the Pit Crew as defined in @pit_crew
 - requisition supplies when purchasing with team funds.
 
-=== Safety Team
-The Safety team ensures that safety is never compromised in favor of any other objective or goal.
+=== Safety Department
+The Safety Dept. ensures that safety is never compromised in favor of any other objective or goal.
 
-The safety team shall: 
+The Safety Dept. shall: 
 - create and audit safety standards
-- audit the safety of processes, standards, and tools produced, maintained, or operated by other sub-teams
+- audit the safety of processes, standards, and tools produced, maintained, or operated by other departments
 - create or audit the Job Safety Analysis for Standards and Training Manuals where required as per @sdr
 - maintain the Safety Manual (see: @safety_manual)
-- compel other sub-teams to assist with audits and assessments as needed and the other sub-team must comply
+- compel other departments to assist with audits and assessments as needed and the other department must comply
 
-=== Information Technology Team (IT)
+=== Information Technology Department (IT)
 IT is the teams computer services provider and is responsible for managing all computer infrastructure.
 
-The IT team shall:
+The IT Dept. shall:
 - maintain communications infrastructure
 - maintain computers controlled by Grayson Robotics
-- training team members to use computer hardware and software
+- training Dept. members to use computer hardware and software
 - maintain the computer and network infrastructure supporting the Grayson Robotics website
 - update the firmware and software-images of FRC robot components
 
-=== Manufacturing Team
-The Manufacturing Team handles all metalwork, woodwork, and mechanical assembly.
+=== Manufacturing Department
+The Manufacturing Dept. handles all metalwork, woodwork, and mechanical assembly.
 The Manufacturing shall not handle electrical assembly.
 
-The Manufacturing Team shall:
+The Manufacturing Dept. shall:
 - research & develop in house mechanical assembly and fabrication capabilities
 - create and manage any documentation required to outsource machining to a sponsor
 - develop custom tooling for machining and assembly
 - build FRC field elements
-- create processes the Mechanical Engineering team can use to prove that their designs are practical to manufacture
+- create processes the Mechanical Engineering Dept. can use to prove that their designs are practical to manufacture
 
-=== Outreach Team
-The Outreach Team is responsible for recruiting sponsors, students, and mentors, and managing relationships with current sponsors.
+=== Outreach Department
+The Outreach Dept. is responsible for recruiting sponsors, students, and mentors, and managing relationships with current sponsors.
 
-The Outreach Team shall:
+The Outreach Dept. shall:
 - recruit students, mentors, and sponsors
-- fulfill sponsor requirements and ensure other sub-teams do so as well
+- fulfill sponsor requirements and ensure other departments do so as well
 - plan events
 - requisition supplies and services from sponsors
-- approve designs that the ME Team wants sponsors manufacture
+- approve designs that the ME Dept. wants sponsors manufacture
 
-=== Marketing Team
-The Marketing Team is responsible for the team brand and producing print and digital marketing materials.
+=== Marketing Department
+The Marketing Dept. is responsible for the team brand and producing print and digital marketing materials.
 
-The Marketing Team shall:
+The Marketing Dept. shall:
 - create website & social media content
 - create all advertising materials
 - take photo and video of team activities
 - create and maintain a standardized brand
 
-=== Systems Engineering Team (SE)
-The Systems Engineering Team is responsible for designing the FRC robot and other systems where,
-two or more other sub-teams must work together to design the system.
+=== Systems Engineering Department (SE)
+The Systems Engineering Dept. is responsible for designing the FRC robot and other systems where,
+two or more other departments must work together to design the system.
 
-The ME, EE, IT, Programming, & Manufacturing teams don't design the robot.
-These sub-teams are responsible for designing sub-systems in conformance with the specification created by SE.
-In the course of creating the system specification the SE team shall consult the other sub-teams and seek final approval from them.
+The ME, EE, IT, Programming, & Manufacturing Departments don't design the robot.
+These departments are responsible for designing sub-systems in conformance with the specification created by SE.
+In the course of creating the system specification the SE Dept. shall consult the other departments and seek final approval from them.
 
-The Systems Engineering Team shall:
+The Systems Engineering Dept. shall:
 - design the FRC robot
 - design and create specifications for non-FRC projects
 - write requirements for all systems designed by the team
 - enumerate the initial requirements for the FRC robot based on the competition strategy and the game manual
-- track new FRC robot requirements as they and other sub-teams discover them, over the course of the build season
-- mediate design conflicts between other sub-teams
-- obtain approval from the relevant sub-team when making a decision that affects their responsibilities
-- adhere to the strategy created by the Strategy Team and agreed on by the whole team
+- track new FRC robot requirements as they and other departments discover them, over the course of the build season
+- mediate design conflicts between other departments
+- obtain approval from the relevant department when making a decision that affects their responsibilities
+- adhere to the strategy created by the Strategy Dept. and agreed on by the whole team
 
-=== Mechanical Engineering Team (ME)
-The Mechanical Engineering Team designs and tests mechanical systems.
+=== Mechanical Engineering Department (ME)
+The Mechanical Engineering Dept. designs and tests mechanical systems.
 
-The Mechanical Engineering Team shall:
+The Mechanical Engineering Dept. shall:
 - design and test mechanical components
 - produce and version control mechanical CADD
-- adhere to the system specification and requirements created by the Systems Engineering and Strategy teams
-- adhere to the requirements and standards of the Electrical Engineering Team where applicable.
+- adhere to the system specification and requirements created by the Systems Engineering and Strategy departments
+- adhere to the requirements and standards of the Electrical Engineering Dept. where applicable.
 - prove that their designs are practical to manufacture either:
-  - in-house by using existing Manufacturing Team and Electrical Team standards
+  - in-house by using existing Manufacturing and Electrical Dept. standards
   - or by outsourcing manufacturing to a sponsor
 
-=== Electrical Engineering Team (EE)
-The Electrical Engineering Team designs, builds, and tests electrical systems.
+=== Electrical Engineering Department (EE)
+The Electrical Engineering Dept. designs, builds, and tests electrical systems.
 
-The Electrical Team shall:
+The Electrical Dept. shall:
 - design and test electrical components
 - assemble the electrical system on FRC robots
 - produce and version control electrical CADD
 - research and develop electrical manufacturing and assembly techniques
-- adhere to the system specification and requirements created by the Systems Engineering and Strategy teams
+- adhere to the system specification and requirements created by the Systems Engineering and Strategy Departments
 
-=== Programming Team
-The Electrical Engineering Team designs, builds, and tests software systems.
+=== Programming Department
+The Electrical Engineering Dept. designs, builds, and tests software systems.
 
-The Programming Team shall:
+The Programming Dept. shall:
 - design, develop, and test all software components
 - version control all software
-- adhere to the system specification and requirements created by the Systems Engineering and Strategy teams
+- adhere to the system specification and requirements created by the Systems Engineering and Strategy Departments
 
 == Projects <projects>
-Projects organize non-standard or non-recurring work, and coordinate major efforts between Sub-Teams.
+Projects organize non-standard or non-recurring work, and coordinate major efforts between departments.
 Team members shall use the project process where:
 - they require a budget, scare resources, or a requisition of supplies
 - they expect work to go on for more than one week
-- different sub-teams need to coordinate
+- different departments need to coordinate
 
 Otherwise, the Action Item process described in @action_items may be more appropriate.
 
@@ -269,7 +269,7 @@ and members expected to use anything created with the project.
 
 Additionally, depending on the required resources, the proposal authors shall seek approval from these groups:
 
-- if requesting funding, the group managing the requisite budget must approve
+- if requesting funding, the department managing the requisite budget must approve
 - if requesting computing resources, IT must approve
 - if requesting shop-tools, parts, or work space, operations must approve
 
@@ -342,10 +342,10 @@ Team members shall use the Action Item process when:
 
 === Action Item process
 Using the team Band for communications:
-+ Discus action item to determine relevant sub-teams.
++ Discus action item to determine relevant departments.
 + Authors create a list of tasks and delegate as appropriate.
 + Set a deadline to either finish, abandon, or promote the action item to a full project.
-+ Notify all members of relevant sub-teams.
++ Notify all members of relevant departments.
 + Obtain the ascent of everyone expected to do work to complete any projects or tasks.
 + Author shall document the completion of the action item after team members complete all tasks.
 
@@ -358,29 +358,29 @@ This section defines all roles that the team must fulfill at all times or during
 
 === Scouts <scouts>
 Scouts gather qualitative and quantitative data about the capabilities and performance of other FRC teams' robots competing in the same events as Grayson Robotics.
-The Strategy Team shall determine what data scouts collect.
-The Intelligence Team shall select members to be scouts.
+The Strategy Dept. shall determine what data scouts collect.
+The Intelligence Dept. shall select members to be scouts.
 Scouts need not go to competition in person if gathering quantitative data on robot performance.
 
 === Pit Crew <pit_crew>
-Members of the Pit Crew must attend competition and arrive promptly when the doors open unless otherwise stated by the schedule put forth by the Operations sub-team. 
+Members of the Pit Crew must attend competition and arrive promptly when the doors open unless otherwise stated by the schedule put forth by the Operations department. 
 
-The Pit Crew are team members from different sub-teams who perform maintenance on the robot between matches.
+The Pit Crew are team members from different departments who perform maintenance on the robot between matches.
 
-Each sub-team determines which members may need to go to the pit on a per-competition basis.
+Each department determines which members may need to go to the pit on a per-competition basis.
 
 The drive team are necessarily pit crew.
 Each member of the Pit Crew is not necessarily needed in the pit at all times.
-The Operations Team decides who needs to be present in the pit based on who they need to complete specific tasks.
+The Operations Dept. decides who needs to be present in the pit based on who they need to complete specific tasks.
 
 === Drive Team <drive_team>
-The Operations Team shall form the drive team through the following process:
+The Operations Dept. shall form the drive team through the following process:
 + Members must pass an assessment of their basic ability to perform their respective role.
 + Members must prove their ability to perform their respective role without incurring penalties.
 + Final selection is random/by lottery.
 
-The Strategy Team shall define the requirements for passing the exam.
-The drive coach shall be a member of the strategy team unless no strategy team members pass the assessment.
+The Strategy Dept. shall define the requirements for passing the exam.
+The drive coach shall be a member of the Strategy Dept. unless no strategy Dept. members pass the assessment.
 
 Drive team membership shall stay the same during an ongoing competition season unless:
 - a member resigns
@@ -410,7 +410,7 @@ Typically, team members propose meetings via Band.
 Team members' meeting proposal shall include the following information:
 - Date, time, location, and other pertinent logistics.
 - List any specific Projects they intend to work on.
-- What sub-teams or individuals they think should attend
+- What departments or individuals they think should attend
 
 Meetings require the approval of at least one mentor and anyone expected to complete work at the meeting.
 The team member making the proposal shall add the meeting to the Band calendar after receiving approval.
@@ -443,7 +443,7 @@ Types of OM:
 - Project Planing Documents
 - Policies
 
-The IT team shall define procedures for managing OM, and requirements for document form, in: ORG-1 Document Control System (see: @org-1).
+The IT Dept. shall define procedures for managing OM, and requirements for document form, in: ORG-1 Document Control System (see: @org-1).
 
 == Controlled Working Files
 Controlled Working Files (CWF) are:
@@ -470,12 +470,12 @@ Grayson robotics recognizes three types of policy:
 === Standards (SDR) <sdr>
 Standards (SDR) define common processes and procedures for long-term use. 
 Team members shall not standardize unnecessary or unsafe rules and processes.
-The sub-Teams and team members that write or approve a standard must follow its processes.
+The departments and team members that write or approve a standard must follow its processes.
 
 SDRs shall adhere to the following:
 - SDRs can be interdisciplinary and apply to multiple teams.
 - Immediate safety concerns always take precedent over following SDRs.
-- SDRs written by the Safety sub-team always take precedent over other SDRs.
+- SDRs written by the Safety department always take precedent over other SDRs.
 - SDRs supersede training documents in the event of a conflict.
 - SDRs shall not conflict with each other.
 
@@ -488,7 +488,7 @@ Organizational (ORG) standards are a kind of standard that applies to the entire
 ORGs, including this document, define the structure and functions of Grayson Robotics.
 
 ORGs shall adhere to the following:
-- ORGs necessarily apply to all sub-teams.
+- ORGs necessarily apply to all departments.
 - Immediate safety concerns always take precedent over following ORGs.
 - ORGs supersede all documents of different types in the event of a conflict.
 - ORGs may not conflict with each other.
@@ -510,8 +510,8 @@ This Document. Describes the general organizational context and activities. All 
 - Defines competition pit management procedures.
 
 *Authored by:*
-- Operations Team
-- Safety Team
+- Operations Dept.
+- Safety Dept.
 
 ==== ORG-3 Safety Manual <safety_manual>
 - Defines the general safety program.
@@ -521,22 +521,22 @@ This Document. Describes the general organizational context and activities. All 
 - Outlines best practice for safe use of communications infrastructure.
 
 *Authored by*
-- Safety Team
+- Safety Dept.
 
 ==== ORG-4 Engineering Process
 - Defines the general engineering processes.
 - Defines the engineering process for competition robot design.
-- Defines responsibilities between technical sub-teams during the FRC robot design process.
+- Defines responsibilities between technical departments during the FRC robot design process.
 
 *Authored by:*
-- Systems Engineering Team
-- Safety Team
-- Strategy Team
-- IT Team
-- Manufacturing Team
-- Mechanical Engineering Team
-- Electrical Engineering Team
-- Programming Team
+- Systems Engineering Dept.
+- Safety Dept.
+- Strategy Dept.
+- IT Dept.
+- Manufacturing Dept.
+- Mechanical Engineering Dept.
+- Electrical Engineering Dept.
+- Programming Dept.
 
 === Corrective Action Reports (CAR) <car>
 Corrective Action Report (CAR) process helps team members trace, record, and correct flaws in designs, processes, or production, that have
@@ -570,7 +570,7 @@ In that case, the Project documents or Action Item Issues shall contain a refere
 
 === Training Manuals (TRM)
 Training Manuals organize and preserve written instructions and other media that Grayson Robotics uses for reference, training, and teaching.
-A training document may specify instructions for teaching or take the form of a tutorial regarding any subject applicable to the sub-team the document is relevant to. 
+A training document may specify instructions for teaching or take the form of a tutorial regarding any subject applicable to the department the document is relevant to. 
 
 Each TRM shall meet the following requirements:
 + Named and titled for the tool, technique, technology, or process it focuses on.
@@ -599,13 +599,13 @@ Auditors of TRMs shall - at minimum - do the following:
 - Find instructions and information to improve.
 
 == Policy document audits
-All sub-teams shall audit their TRM and SDR documents no less than once per year to ensure correctness, safety, compliance with any formatting standards, and compliance with revision control standards.
+All departments shall audit their TRM and SDR documents no less than once per year to ensure correctness, safety, compliance with any formatting standards, and compliance with revision control standards.
 
-One member per sub-team shall audit organizational standards no less than once per year to ensure correctness, safety, compliance with any formatting standards, and compliance with revision control standards.
+One member per department shall audit organizational standards no less than once per year to ensure correctness, safety, compliance with any formatting standards, and compliance with revision control standards.
 All team members must approve any changes to organizational standards.
 
 == Policy document Job Safety Analysis
-All SDR or TRM processes requiring use of tools, handling objects that may cause injury if dropped, use of chemicals, or require PPE shall include a JSA for the relevant processes. The Safety team may also order the addition of a JSA to a SDR or TRM as they see fit.
+All SDR or TRM processes requiring use of tools, handling objects that may cause injury if dropped, use of chemicals, or require PPE shall include a JSA for the relevant processes. The Safety Dept. may also order the addition of a JSA to a SDR or TRM as they see fit.
 
 = General Safety <safety>
 For any area where someone may be:
@@ -651,7 +651,7 @@ In addition to the Grayson Robotics Code of Conduct, team members shall follow t
 Trial member:
 - Read and understood ORG-0 & ORG-3.
 - Legal guardian read and understood ORG-0 & ORG-3.
-- Select three sub-teams to shadow and complete small tasks with.
+- Select three departments to shadow and complete small tasks with.
 - Shall not author controlled documents.
 - Shall not use power tools.
 - Shall not travel with the team outside of the shop.
@@ -660,7 +660,7 @@ Trial member:
 Full member:
 - Read and understood all Organizational Standards.
 - Trial member for at least one month.
-- Apply to a sub team and have all members of that sub-team accept the application.
+- Apply to a sub team and have all members of that department accept the application.
 
 == Expulsion Process
 To expel a team member:

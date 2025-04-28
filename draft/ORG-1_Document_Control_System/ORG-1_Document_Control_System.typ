@@ -261,6 +261,10 @@ The IT Dept. shall maintain the structure of each yearly directory as follows:
 + The URL is: TBD
 
 === Action Item Titles
++ Authors shall chose a title that is unique from all other Project documents.
++ Authors shall write Action Items in Markdown.
+
+=== Action Item File Names
 Authors shall name Action Item files as follows:
 + the date in ISO 8601 format: yyyy-mm-dd
 + underscore character "\_"
@@ -268,10 +272,7 @@ Authors shall name Action Item files as follows:
 + the files extension ".md"
 For example: "2025-04-26_Recycle_old_batteries.md"
 
-+ Authors shall chose a title that is unique from all other Project documents.
-+ Authors shall write project documents in Markdown.
-
-=== Directory Structure
+=== Action Item Directory Structure
 All file names are case sensitive.
 
 The IT Dept. shall maintain the structure of the root directory of the repository as follows:
