@@ -377,6 +377,7 @@ The Operations Dept. decides who needs to be present in the pit based on who the
 The Operations Dept. shall form the drive team through the following process:
 + Members must pass an assessment of their basic ability to perform their respective role.
 + Members must prove their ability to perform their respective role without incurring penalties.
++ Secret vote to select between members who have passed all other requirements. 
 + Final selection is random/by lottery.
 
 The Strategy Dept. shall define the requirements for passing the exam.
