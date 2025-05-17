@@ -43,11 +43,9 @@
 = Document Control System <dcs>
 Certain types of documents - owing to their importance - require a Document Control System (DCS).
 The purpose of a DCS is to ensure documents are:
-- correct
-- easy to locate
-- versioned with a transparent history
+correct, easy to locate, and versioned with a transparent history.
 
-Control procedures also ensure that team members are know that the document they are referencing is the most up to date version. 
+Control procedures also ensure that team members know that the document they are referencing is the most up to date version. 
 
 In the context of FRC, the concerns that necessitate building a DCS are as follows:
 
@@ -67,13 +65,13 @@ All team members will interact with and author some form of CMD throughout norma
 Grayson Robotics shall maintain CMD pursuant to the requirements outlined in this standard.
 
 == Controlled Working Files <dcs_cwf>
-For these types of files, each sub-team shall maintain its own internal Policy Documents covering proper handling and version control.
+For these types of files, each department shall maintain its own internal CMD covering proper handling and version control.
 
 These policies shall adhere to the following requirements:
 + Provide a means of versioning files when they are of a type that may be revised.
 + Define a location and procedure for storing the files electronically.
 + Define when and how to notify relevant parties of changes.
-+ TODO: what else?
+// TODO: what else?
 
 == Common Requirements
 For documents written by Grayson Robotics:
@@ -165,7 +163,7 @@ All team members shall write, type, or otherwise represent document codes with a
 === Edit & Pull Request process <pr>
 Authors shall use GitHub Pull Requests (PR) to submit documents and updates to each DCSR:
 + Fork the GitHub repository
-	+ Clone the fork to your computer locally
+	+ Clone the fork to your local computer
 + Make edits
 	+ change and add content
 	+ check structure against this standard and ORG-0.
@@ -173,9 +171,10 @@ Authors shall use GitHub Pull Requests (PR) to submit documents and updates to e
 	+ update NDD
 + Commit
 	+ Describe changes in message
-+ push to fork
-+ Submit PR
-	+ reference the PPD
++ Push to fork
++ Discus with co-authors
++ When all co-authors agree: submit PR
+	+ Reference the PPD in the initial PR comment
 + Discus and edit using GitHub's PR comment system
 
 At the discretion of the IT Dept., the Author or the IT Dept. shall "squash" and Rebase commits on the fork prior to merging the PR.
